@@ -36,10 +36,12 @@ button {
 
 #start-btn {
     background: goldenrod;
+    font-size:60px;
 }
 
 #new-btn {
     background: goldenrod;
+    font-size:60px;
 }
 #message-el{
     color:chartreuse;
