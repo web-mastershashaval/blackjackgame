@@ -1,0 +1,51 @@
+body{
+    background-image: url("coin.jpg");
+    background-size: cover;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    height: 100vh;
+    margin-top: 104px;
+    margin-top:700px;
+    margin-bottom:600px;
+    color:white;
+    font-size: 75px;
+}
+
+
+h1{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+h2{
+    font-size: 120px;
+    margin-top: 0%;
+    margin-bottom: 20px;
+}
+button {
+    border: none;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    color: white;
+    font-weight: bold;
+    width: 450px; 
+    justify-content: center;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+#start-btn {
+    background: goldenrod;
+}
+
+#new-btn {
+    background: goldenrod;
+}
+#message-el{
+    color:chartreuse;
+}
+#cards-el{
+    color:blue;
+}
+#sum-el{
+    color:blanchedalmond;
+}
